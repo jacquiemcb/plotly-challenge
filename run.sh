@@ -1,1 +1,1 @@
-FLASK_APP=bubble-biodiversity/app.py flask run
+FLASK_APP=plotly-challenge/app.py flask run
